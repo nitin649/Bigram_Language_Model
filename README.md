@@ -1,4 +1,4 @@
-# Language Model on character level using Bigram Approach (using Statistic and Neural Network).
+# Language Model on character level using Bigram Approach (using Statistic and Neural Network Approach).
 
 # Description
 Language Modelling is the process where we feed a given sequence to find the next word/token over a probability distribution of vocab to get
